@@ -1,4 +1,4 @@
-  "Strange"
+> "Strange"
 
   thought the creature as it stared into the bright sunny day, the sun's rays
 raining down onto the burning hot lake of solid asphalt. The carcass of a lizard
